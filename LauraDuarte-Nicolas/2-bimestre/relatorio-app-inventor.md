@@ -25,9 +25,6 @@ O objetivo deste projeto é proporcionar um acesso rápido e prático ao site of
 ### Print das telas do Design
 ![design no MIT](imagens/design-web.png)
 
-### Design no celular
-![design no celular](prints/)
-
 ### Print das telas dos Blocos
 ![design dos blocos](imagens/blocos-web.png)
 
@@ -43,9 +40,6 @@ O objetivo deste aplicativo é facilitar o envio de e-mails aos professores da E
 
 ![Design no MIT](imagens/design-correio.png)
 
-### Design no celular
-![design no celular](prints/)
-
 ### Print das telas dos Blocos
 ![design dos blocos](imagens/blocos-correio.png)
 
@@ -53,17 +47,14 @@ O objetivo deste aplicativo é facilitar o envio de e-mails aos professores da E
 
 # Componentes avançados 2
 
-## Projeto 3 – 
+## Projeto 3 – Mapa
 
 ### Descrição
 
- 
+ O aplicativo é composto por uma imagem da escola EtecVAV e um botão que permite visualizar a localização da instituição de forma rápida e prática. O app tem como principal objetivo auxiliar pessoas que ainda não conhecem onde a escola está localizada, facilitando o acesso ao endereço por meio do celular.
 
 ![Design no MIT](imagens/)
 
-### Design no celular
-
-![design no celular](prints/)
 
 ### Print das telas dos Blocos
 
@@ -71,18 +62,15 @@ O objetivo deste aplicativo é facilitar o envio de e-mails aos professores da E
 
 ---
 
-## Projeto 4 – 
+## Projeto 4 – Telefone
 
 ### Descrição
 
+O objetivo deste aplicativo é facilitar o contato telefônico com a escola para o agendamento de visitas. O app permite que o usuário realize a ligação para a escola de forma rápida e prática por meio de um botão disponível na interface.
 
 ### Print das telas do Design
 
 ![Design no MIT](imagens/)
-
-### Design no celular
-
-![design no celular](prints/)
 
 ### Print das telas dos Blocos
 
