@@ -26,4 +26,6 @@ Além disso, o aplicativo permite editar tanto o conteúdo das tarefas quanto su
 
 Com essa proposta, o aplicativo busca facilitar a organização das atividades diárias, tornando o gerenciamento de tarefas mais prático, eficiente e acessível.
 
-##
+## Funcionalidades opcionais
+
+As funcionalidades opcionais implementadas no aplicativo foram a classificação de prioridade das tarefas, permitindo categorizá-las como comum, importante ou urgente; a funcionalidade de edição, que possibilita ao usuário alterar tanto o conteúdo quanto a prioridade de uma tarefa já cadastrada; e o aprimoramento da interface gráfica (design), com o objetivo de proporcionar uma experiência mais intuitiva, organizada e agradável durante a utilização do aplicativo.
