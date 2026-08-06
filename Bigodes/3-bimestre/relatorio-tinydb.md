@@ -9,8 +9,11 @@ Informática para Internet
 
 ## Autores
 Laura Duarte Arruda dos Santos
+
 Nicolas Saraiva Batista
+
 Pedro Coraine
+
 Pedro Henrique Nascimento Rodrigues
 
 ---
@@ -22,3 +25,5 @@ Pedro Henrique Nascimento Rodrigues
 Além disso, o aplicativo permite editar tanto o conteúdo das tarefas quanto sua classificação de prioridade, proporcionando maior flexibilidade para acompanhar mudanças na rotina do usuário. Após a conclusão de uma atividade, também é possível excluí-la da lista, seja individualmente ou utilizando a opção "Limpar", que remove todas as tarefas de uma só vez.
 
 Com essa proposta, o aplicativo busca facilitar a organização das atividades diárias, tornando o gerenciamento de tarefas mais prático, eficiente e acessível.
+
+##
