@@ -41,7 +41,7 @@ As funcionalidades opcionais implementadas no aplicativo foram a classificação
 
 ## Design no celular
 
-![design no celular](img/)
+![design no celular](img/print-tinydb.jpeg)
 
 ## Blocos
 
