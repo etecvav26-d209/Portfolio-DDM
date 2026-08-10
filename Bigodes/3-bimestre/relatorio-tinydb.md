@@ -32,7 +32,12 @@ As funcionalidades opcionais implementadas no aplicativo foram a classificação
 
 ## Design 
 
+![design](img/design-tinydb.png)
+
 ## Elementos
+
+![elementos](img/elements-tinydb.png)
+![elementos](img/elements2-tinydb.png)
 
 ## Design no celular
 
